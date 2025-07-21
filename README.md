@@ -25,7 +25,7 @@ graph TD
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,js,ts,java,python,django,postgres,firebase,mysql,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,js,java,python,postgres,firebase,mysql,git,vercel,sql" />
 </p>
 
 ---
@@ -42,10 +42,10 @@ graph TD
 
 ## 🌐 Languages I Speak
 
-- **Frontend**: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`
-- **Backend**: `Node.js`, `Express`, `Django`, `Firebase Functions`
+- **Frontend**: `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`
+- **Backend**: `Node.js`, `Express`, `Firebase Functions`
 - **Mobile**: `React Native`, `Expo`
-- **AI/ML**: `Python`, `NumPy`, `Pandas`, `OpenAI`, `Gemini`
+- **AI/ML**: `Python`, `NumPy`, `Pandas`, `OpenAI`, `Gemini`,`Prompt Engineering`
 - **Database**: `PostgreSQL`, `Firebase Realtime DB`, `MongoDB`, `MySQL`
 - **Embedded**: `ESP8266`, `ESP32`, `C`, `IoT protocols`
 
