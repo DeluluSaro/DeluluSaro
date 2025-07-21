@@ -1,9 +1,10 @@
+
 <h1 align="center">
   Hi there 👋 I'm <span style="color:#F59E0B;">Saravana Iyyappan</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&height=45&lines=Full-Stack+Developer;AI%2FML+Enthusiast;React+Native+Engineer;IoT+Builder;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;AI%2FML+Enthusiast;React+Native+Engineer;IoT+Builder;Open+Source+Lover;&font=Fira%20Code&center=true&width=440&height=45&color=F59E0B&vCenter=true&size=22" />
 </p>
 
 ---
@@ -12,8 +13,50 @@
 
 ```mermaid
 graph TD
-  A[👨‍💻 Saravana Iyyappan] --> B[🎓 M.Tech Software Engineering - VIT Chennai]
-  B --> C[💻 Full Stack Developer (Web & Mobile)]
-  B --> D[📡 IoT & Embedded Systems Innovator]
-  B --> E[🧠 AI & ML Project Developer]
-  B --> F[⚙️ Open Source Contributor]
+  A[Saravana Iyyappan] --> B[M.Tech @ VIT Chennai]
+  B --> C[Full Stack Developer]
+  B --> D[IoT & Embedded Systems]
+  B --> E[AI & ML Projects]
+  B --> F[Open Source Contributor]
+```
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,js,ts,java,python,django,postgres,firebase,mysql,git,vercel" />
+</p>
+
+---
+
+## 💼 Tools & Platforms
+
+- 🧑‍💻 VS Code, GitHub, Postman, Figma  
+- ☁️ Firebase, Vercel, Netlify  
+- 🧪 GitHub Actions, Agile, CI/CD  
+- 📱 Expo, Android Studio  
+- 🤖 OpenAI API, Gemini API
+
+---
+
+## 🌐 Languages I Speak
+
+- **Frontend**: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`
+- **Backend**: `Node.js`, `Express`, `Django`, `Firebase Functions`
+- **Mobile**: `React Native`, `Expo`
+- **AI/ML**: `Python`, `NumPy`, `Pandas`, `OpenAI`, `Gemini`
+- **Database**: `PostgreSQL`, `Firebase Realtime DB`, `MongoDB`, `MySQL`
+- **Embedded**: `ESP8266`, `ESP32`, `C`, `IoT protocols`
+
+---
+
+## 📫 Contact Me
+
+- ✉️ saravana.personal.dev@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/saravana-iyyappan/) | [GitHub](https://github.com/DeluluSaro)  
+- 📱 React Native | 💻 Next.js | ⚡ Firebase  
+
+---
+
+⭐️ *Thanks for visiting! Feel free to follow, fork, or star my projects. Let's build something amazing together!*
