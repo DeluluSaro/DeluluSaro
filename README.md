@@ -17,7 +17,7 @@ graph TD
   B --> C[Full Stack Developer]
   B --> D[IoT & Embedded Systems]
   B --> E[AI & ML Projects]
-  B --> F[Open Source Contributor]
+  
 ```
 
 ---
