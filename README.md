@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;AI%2FML+Enthusiast;React+Native+Engineer;IoT+Builder;Open+Source+Lover;&font=Fira%20Code&center=true&width=440&height=45&color=F59E0B&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;AI%2FML+Enthusiast;React+Native+Developer;IoT+Builder;Open+Source+Lover;&font=Fira%20Code&center=true&width=440&height=45&color=F59E0B&vCenter=true&size=22" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ graph TD
 
 ## 📫 Contact Me
 
-- ✉️ saravana.personal.dev@gmail.com  
+- ✉️ saravanaiyyappan.sadha@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saravana-iyyappan/) | [GitHub](https://github.com/DeluluSaro)  
 - 📱 React Native | 💻 Next.js | ⚡ Firebase  
 
